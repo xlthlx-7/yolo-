@@ -1,0 +1,5 @@
+{
+  "name": "SkyForge: YOLO Dataset Generator",
+  "description": "Upload an object image and automatically generate a synthetic drone-view dataset with YOLOv8 annotations using Gemini AI.",
+  "requestFramePermissions": []
+}
